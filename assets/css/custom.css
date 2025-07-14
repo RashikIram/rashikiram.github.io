@@ -1,0 +1,32 @@
+/* === Global Beige Theme === */
+body {
+  background-color: #fdf6e3;
+  color: #333;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+a {
+  color: #a0522d;
+}
+
+a:hover {
+  color: #8b4513;
+  text-decoration: underline;
+}
+
+h1, h2, h3 {
+  color: #7b5e42;
+}
+
+.page__content {
+  background-color: #fff8dc;
+  padding: 2em;
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.04);
+}
+
+/* Sidebar and nav (if applicable) */
+.author__avatar,
+.sidebar {
+  background-color: #fdf6e3 !important;
+}

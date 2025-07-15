@@ -1,0 +1,129 @@
+---
+layout: single
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
+
+<style>
+.project-card {
+  background-color: #fff7e6;
+  padding: 1.2rem 1.5rem;
+  margin-bottom: 1.2rem;
+  border-radius: 10px;
+  border: 1px solid #e0cba8;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+.project-title {
+  font-weight: 700;
+  color: #5e3929;
+  font-size: 1.1rem;
+}
+
+.project-desc {
+  margin-top: 0.4rem;
+  font-size: 0.95rem;
+  color: #4e3c30;
+}
+
+.tool-badge {
+  display: inline-block;
+  background-color: #f2dfb8;
+  color: #5e3929;
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 0.3em 0.7em;
+  border-radius: 12px;
+  margin: 0.2em 0.3em 0.2em 0;
+  transition: transform 0.2s ease-in-out;
+  cursor: default;
+}
+
+.tool-badge:hover {
+  transform: translateY(-3px); /* Moves badge upward slightly */
+}
+
+.project-link {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+}
+.project-link a {
+  color: #8b5e3c;
+  text-decoration: underline;
+}
+</style>
+
+<h1><i class="fas fa-project-diagram"></i> Projects</h1>
+
+<div class="project-card">
+  <div class="project-title">Comparative Analysis of Fine-Tuned BERT Variants to Identify Hate Speech</div>
+  <div class="project-desc">
+    Fine-tuned BERT, RoBERTa, and AlBERTa using LoRA for efficient hate speech detection. Achieved over 90% accuracy with sub-110ms latency using encoder-based LLMs.
+  </div>
+  <div>
+    <span class="tool-badge">Hugging Face</span>
+    <span class="tool-badge">PyTorch</span>
+    <span class="tool-badge">LoRA</span>
+    <span class="tool-badge">NumPy</span>
+    <span class="tool-badge">LLMs</span>
+  </div>
+  <div class="project-link"><a href="https://github.com/RashikIram/Comparative-Analysis-of-Fine-Tuned-BERT-Variants-to-Identify-Hate-Speech-" target="_blank">GitHub Repo</a></div>
+</div>
+
+<div class="project-card">
+  <div class="project-title">Optimizing Neural Network Training with Genetic Algorithms for CIFAR-10</div>
+  <div class="project-desc">
+    Developed a GA-based optimizer that outperformed standard methods like SGD and Adam by 2–5% on CIFAR-10. Integrated Optuna for efficient hyperparameter tuning.
+  </div>
+  <div>
+    <span class="tool-badge">PyTorch</span>
+    <span class="tool-badge">timm</span>
+    <span class="tool-badge">NumPy</span>
+    <span class="tool-badge">Optuna</span>
+  </div>
+  <div class="project-link"><a href="https://github.com/RashikIram/Optimizing-Neural-Network-Training-with-Genetic-Algorithms-for-CIFAR-10" target="_blank">GitHub Repo</a></div>
+</div>
+
+<div class="project-card">
+  <div class="project-title">Navigation using Monocular Depth Estimation and Object Detection</div>
+  <div class="project-desc">
+    Built a combined depth estimation and object detection pipeline, optimized via quantization for embedded devices. Achieved 0.801 mAP50 on real-time deployment with Raspberry Pi.
+  </div>
+  <div>
+    <span class="tool-badge">PyTorch</span>
+    <span class="tool-badge">Ultralytics</span>
+    <span class="tool-badge">Matplotlib</span>
+    <span class="tool-badge">Raspberry Pi</span>
+  </div>
+  <div class="project-link"><a href="https://arxiv.org/abs/2507.08165" target="_blank">arXiv Paper</a></div>
+</div>
+
+<div class="project-card">
+  <div class="project-title">AuthentiTaka: A Lightweight Counterfeit Detection Application</div>
+  <div class="project-desc">
+    Designed a quantized DNN model achieving 99.92% accuracy and 90% size reduction. Integrated Grad-CAM to enhance explainability for real-world currency validation.
+  </div>
+  <div>
+    <span class="tool-badge">Google Colab</span>
+    <span class="tool-badge">TensorFlow</span>
+    <span class="tool-badge">Android Studio</span>
+    <span class="tool-badge">Grad-CAM</span>
+  </div>
+  <div class="project-link"><a href="https://github.com/RashikIram/AuthentiTk-Secure-Currency-Verification-App" target="_blank">GitHub Repo</a></div>
+</div>
+
+<div class="project-card">
+  <div class="project-title">Alzheimer’s Disease Detection</div>
+  <div class="project-desc">
+    Performed feature-level ensemble learning and ADASYN-based augmentation to enhance Alzheimer’s classification. Compared multiple deep architectures for model performance.
+  </div>
+  <div>
+    <span class="tool-badge">PyTorch</span>
+    <span class="tool-badge">timm</span>
+    <span class="tool-badge">matplotlib</span>
+    <span class="tool-badge">seaborn</span>
+    <span class="tool-badge">ADASYN</span>
+  </div>
+  <div class="project-link"><a href="https://github.com/RashikIram/Alzheimer-s-Disease-Detection/tree/main" target="_blank">GitHub Repo</a></div>
+</div>

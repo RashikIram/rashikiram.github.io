@@ -1,18 +1,22 @@
 ---
-layout: home
+layout: single
 title: "Welcome"
 excerpt: "PhD applicant in Computer Science | Researcher in Multi-Modal AI, Medical Imaging, and Edge Intelligence"
----
-
-## Hi, I'm Rashik Iram Chowdhury
-
-I'm a Computer Science graduate from North South University and currently an **Adjunct Lecturer** at Southeast University, Dhaka, where I teach core undergraduate computer science courses to over **180 students**. My research lies at the intersection of **multi-modal learning**, **medical image analysis**, and **edge intelligence**, with a focus on building **lightweight and explainable AI systems** that are deployable in real-world, resource-constrained environments. Much of my recent work is applied to **assistive technology**, particularly AI-driven navigation for the visually impaired and mobile diagnostic tools in healthcare.
-
-I'm currently expanding my research into **causal inference**, **open-world object detection**, and **long-tailed classification** — with the goal of designing AI systems that generalize beyond curated datasets and adapt to the complexity of real-world environments.
-
+author_profile: true
 ---
 
 <div class="experience-section">
+
+<h2 class="exp-heading">About Me</h2>
+<div class="exp-card">
+<p>
+I'm a Computer Science graduate from North South University and currently an <strong>Adjunct Lecturer</strong> at Southeast University, Dhaka, where I teach core undergraduate computer science courses to over <strong>180 students</strong>. My research lies at the intersection of <strong>multi-modal learning</strong>, <strong>medical image analysis</strong>, and <strong>edge intelligence</strong>, with a focus on building <strong>lightweight and explainable AI systems</strong> that are deployable in real-world, resource-constrained environments. Much of my recent work is applied to <strong>assistive technology</strong>, particularly AI-driven navigation for the visually impaired and mobile diagnostic tools in healthcare.
+</p>
+
+<p>
+I'm currently expanding my research into <strong>causal inference</strong>, <strong>open-world object detection</strong>, and <strong>long-tailed classification</strong> — with the goal of designing AI systems that generalize beyond curated datasets and adapt to the complexity of real-world environments.
+</p>
+</div>
 
 <h2 class="exp-heading">Academic Highlights</h2>
 <div class="exp-card">
@@ -51,18 +55,17 @@ I'm currently expanding my research into **causal inference**, **open-world obje
   </ul>
 </div>
 
+<h2 class="exp-heading">Explore More</h2>
+<div class="exp-card">
+  <ul>
+    <li><a href="/publications/">Publications</a> — My academic papers and submitted works</li>
+    <li><a href="/projects/">Projects</a> — Open-source tools and applied research</li>
+    <li><a href="/experience/">Experience</a> — Teaching and academic roles</li>
+    <li><a href="/cv/">CV</a> — Downloadable résumé (PDF)</li>
+    <li><a href="/contact/">Contact</a> — Get in touch</li>
+  </ul>
 </div>
 
----
-
-## Explore More
-
-- [Publications](/publications/) — My academic papers and submitted works  
-- [Projects](/projects/) — Open-source tools and applied research  
-- [Experience](/experience/) — Teaching and academic roles  
-- [CV](/cv/) — Downloadable résumé (PDF)  
-- [Contact](/contact/) — Get in touch
-
----
-
 <p style="text-align: center;"><em>I am actively seeking PhD opportunities in Computer Science for Spring 2026. If my work aligns with your interests, I would be happy to connect or collaborate.</em></p>
+
+</div>

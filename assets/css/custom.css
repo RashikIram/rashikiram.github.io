@@ -30,3 +30,14 @@ h1, h2, h3 {
 .sidebar {
   background-color: #fdf6e3 !important;
 }
+
+.page__footer-follow,
+.page__footer-links,
+.page__footer-colophon {
+  display: none !important;
+}
+
+.page__footer {
+  background-color: #f6ebd6;  /* soft beige footer background */
+  border-top: none;
+}

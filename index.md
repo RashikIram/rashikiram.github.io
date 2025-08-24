@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Welcome"
-excerpt: "PhD applicant in Computer Science | Researcher in Multi-Modal AI, Medical Imaging, and Edge Intelligence"
+excerpt: "PhD applicant in Computer Science | Researcher in Multi-Modal AI, Computer Vision, Natural Language Processing, and Edge Intelligence"
 author_profile: true
 ---
 
@@ -10,7 +10,7 @@ author_profile: true
 <h2 class="exp-heading">About Me</h2>
 <div class="exp-card">
 <p>
-I'm a Computer Science graduate from North South University and currently an Adjunct Lecturer at Southeast University, Dhaka, where I teach core undergraduate computer science courses to over 180 students. My research lies at the intersection of multi-modal learning, medical image analysis, and edge intelligence, with a focus on building lightweight and explainable AI systems that are deployable in real-world, resource-constrained environments. Much of my recent work is applied to assistive technology, particularly AI-driven navigation for the visually impaired and mobile diagnostic tools in healthcare.
+I'm a Computer Science graduate from North South University and currently an Adjunct Lecturer at Southeast University, Dhaka, where I teach core undergraduate computer science courses to over 180 students. My research lies at the intersection of multi-modal learning, machine learning applications, and edge intelligence, with a focus on building lightweight and explainable AI systems that are deployable in real-world, resource-constrained environments. Much of my recent work is applied to assistive technology, particularly AI-driven navigation for the visually impaired and mobile diagnostic tools in healthcare.
 </p>
 
 <p>

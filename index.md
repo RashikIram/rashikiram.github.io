@@ -23,7 +23,7 @@ I'm currently expanding my research into causal inference, open-world object det
   <ul>
     <li>Graduated Summa Cum Laude from North South University with a GPA of 3.98/4.00</li>
     <li>Ranked in the top 1% of CSE undergraduates</li>
-    <li>Awarded full merit scholarship (2021–2024) based on consistent academic performance</li>
+    <li>Awarded 100% merit scholarship (2021–2024)</li>
   </ul>
 </div>
 

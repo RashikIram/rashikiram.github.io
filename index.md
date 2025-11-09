@@ -10,11 +10,11 @@ author_profile: true
 <h2 class="exp-heading">About Me</h2>
 <div class="exp-card">
 <p>
-I'm a Computer Science graduate from North South University and currently an Adjunct Lecturer at Southeast University, Dhaka, where I teach core undergraduate computer science courses to over 280 students. My research lies at the intersection of multi-modal learning, machine learning applications, and edge intelligence, with a focus on building lightweight and explainable AI systems that are deployable in real-world, resource-constrained environments. Much of my recent work is applied to assistive technology, particularly AI-driven navigation for the visually impaired and mobile diagnostic tools in healthcare.
+I am a Computer Science graduate from North South University and currently an Adjunct Lecturer at Southeast University, Dhaka, where I teach core undergraduate computer science courses to over 280 students. My research lies at the intersection of multi-modal learning, machine learning applications, and edge intelligence, with a focus on building lightweight and explainable AI systems that are deployable in real-world, resource-constrained environments. Much of my recent work is applied to assistive technology, particularly AI-driven navigation for the visually impaired and mobile diagnostic tools in healthcare.
 </p>
 
 <p>
-I'm currently expanding my research into causal inference, open-world object detection, and long-tailed classification — with the goal of designing AI systems that generalize beyond curated datasets and adapt to the complexity of real-world environments.
+I am currently expanding my research into causal inference, open-world object detection, and long-tailed classification, with the goal of designing AI systems that are trustworthy and generalize beyond curated datasets, adapting to the complexity of real-world environments.
 </p>
 </div>
 
@@ -37,8 +37,8 @@ I'm currently expanding my research into causal inference, open-world object det
     <li>Submitted work on:
       <ul>
         <li>Oral disease diagnosis using explainable and lightweight CNN ensembles, validated with expert dentists</li>
-        <li>Skin disease detection using early fusion of tabular clinical data and dermatology images with GCNs</li>
-        <li>Open-set waste classification using a novel dataset and graph-based models for real-world deployment</li>
+        <li>Skin disease detection using early fusion of tabular clinical data processed with GCNs and dermatology images</li>
+        <li>Open-set waste classification using a novel dataset and graph-based models for efficient waste management</li>
       </ul>
     </li>
   </ul>
@@ -47,25 +47,25 @@ I'm currently expanding my research into causal inference, open-world object det
 <h2 class="exp-heading">Teaching Highlights</h2>
 <div class="exp-card">
   <ul>
-    <li>Adjunct Lecturer, Southeast University — teaching undergraduate courses to over 180 students</li>
+    <li>Adjunct Lecturer, Southeast University - Instructed over 280 undergraduate students in computer science</li>
     <li>Delivered lectures and labs in Operating Systems, Database Systems, and Communication Theory</li>
     <li>Contributed to OBE and BAETE accreditation-aligned curriculum design</li>
     <li>Supported lab development and supervised assessments and grading workflows</li>
-    <li>Former Teaching Assistant, North South University — supervised and supported 160+ students in Discrete Mathematics and Database Systems</li>
+    <li>Former Teaching Assistant, North South University - supervised and supported 160+ students in Discrete Mathematics and Database Systems</li>
   </ul>
 </div>
 
 <h2 class="exp-heading">Explore More</h2>
 <div class="exp-card">
   <ul>
-    <li><a href="/publications/">Publications</a> — My academic papers and submitted works</li>
-    <li><a href="/projects/">Projects</a> — Open-source tools and applied research</li>
-    <li><a href="/experience/">Experience</a> — Teaching and academic roles</li>
-    <li><a href="/cv/">CV</a> — Downloadable résumé (PDF)</li>
-    <li><a href="/contact/">Contact</a> — Get in touch</li>
+    <li><a href="/publications/">Publications</a> - My academic papers and submitted works</li>
+    <li><a href="/projects/">Projects</a> - Open-source tools and applied research</li>
+    <li><a href="/experience/">Experience</a> - Teaching and academic roles</li>
+    <li><a href="/cv/">CV</a> - Downloadable résumé (PDF)</li>
+    <li><a href="/contact/">Contact</a> - Get in touch</li>
   </ul>
 </div>
 
-<p style="text-align: center;"><em>I am actively seeking MSc/PhD opportunities in Computer Science for Spring 2026. If my work aligns with your interests, I would be happy to connect or collaborate.</em></p>
+<p style="text-align: center;"><em>I am actively seeking PhD opportunities in Computer Science for Fall 2026. If my work aligns with your interests, I would be happy to connect or collaborate.</em></p>
 
 </div>

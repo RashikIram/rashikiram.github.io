@@ -14,46 +14,37 @@ I am a Computer Science graduate from North South University and currently an Ad
 </p>
 
 <p>
-I am currently expanding my research into causal inference, open-world object detection, and long-tailed classification, with the goal of designing AI systems that are trustworthy and generalize beyond curated datasets, adapting to the complexity of real-world environments.
+I am currently expanding my research into open-world object detection with the goal of designing AI systems that are trustworthy and generalize beyond curated datasets, adapting to the complexity of varying environments.
 </p>
 </div>
 
-<h2 class="exp-heading">Academic Highlights</h2>
+<h2 class="exp-heading">News & Updates</h2>
 <div class="exp-card">
   <ul>
-    <li>Graduated Summa Cum Laude from North South University with a GPA of 3.98/4.00</li>
-    <li>Ranked in the top 1% of CSE undergraduates</li>
-    <li>Awarded 100% merit scholarship (2021–2024)</li>
+
+    <li><strong>Oct 2025:</strong> One journal paper conditionally accepted in <strong>Knowledge-Based Systems (IF 6.1)</strong>.</li>
+
+    <li><strong>Aug 2025:</strong> Invited Reviewer for <strong>Biomedical Signal Processing and Control (IF 4.9)</strong>.</li>
+
+    <li><strong>Mar 2025:</strong> Started a new position as an <strong>Adjunct Lecturer</strong> at Southeast University, Department of CSE.</li>
+
+    <li><strong>Mar 2025:</strong> One journal paper accepted in <strong>Array, Elsevier (IF 4.5)</strong>.</li>
+
+    <li><strong>Dec 2024:</strong> Won the <strong>Innovation Challenge Season 15</strong> at North South University (Capstone Project Showcase).</li>
+
+    <li><strong>Dec 2024:</strong> One conference paper accepted at the <strong>6th International Conference on Sustainable Technologies for Industry 5.0 (STI)</strong>.</li>
+
+    <li><strong>Sept 2024:</strong> Started a new position as an <strong>Undergraduate Teaching Assistant</strong> at North South University, Department of ECE.</li>
+
+    <li><strong>Sept 2024:</strong> One journal paper accepted in <strong>Journal of King Saud University – Computer and Information Sciences, Elsevier (IF 6.1)</strong>.</li>
+
+    <li><strong>Feb 2024:</strong> Started a new position as a <strong>Research Assistant</strong> under Md. Ishan Arefin Hossain at North South University.</li>
+
+    <li><strong>Jan 2024:</strong> Started a new position as an <strong>AI Researcher</strong> at Mahdy Research Academy.</li>
+
   </ul>
 </div>
 
-<h2 class="exp-heading">Research Highlights</h2>
-<div class="exp-card">
-  <ul>
-    <li>Co-authored two Q1 journal publications on AI for accessibility, including one as first author</li>
-    <li>Proposed and developed real-time navigation algorithms for visually impaired pedestrians</li>
-    <li>Optimized and deployed deep learning models to Android apps using ONNX and LiteRT for real-time on-device inference</li>
-    <li>Co-authored a $5,000 funded proposal for NSU-CTRG 2023–24 research grant</li>
-    <li>Submitted work on:
-      <ul>
-        <li>Oral disease diagnosis using explainable and lightweight CNN ensembles, validated with expert dentists</li>
-        <li>Skin disease detection using early fusion of tabular clinical data processed with GCNs and dermatology images</li>
-        <li>Open-set waste classification using a novel dataset and graph-based models for efficient waste management</li>
-      </ul>
-    </li>
-  </ul>
-</div>
-
-<h2 class="exp-heading">Teaching Highlights</h2>
-<div class="exp-card">
-  <ul>
-    <li>Adjunct Lecturer, Southeast University - Instructed over 280 undergraduate students in computer science</li>
-    <li>Delivered lectures and labs in Operating Systems, Database Systems, and Communication Theory</li>
-    <li>Contributed to OBE and BAETE accreditation-aligned curriculum design</li>
-    <li>Supported lab development and supervised assessments and grading workflows</li>
-    <li>Former Teaching Assistant, North South University - supervised and supported 160+ students in Discrete Mathematics and Database Systems</li>
-  </ul>
-</div>
 
 <h2 class="exp-heading">Explore More</h2>
 <div class="exp-card">

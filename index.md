@@ -18,7 +18,7 @@ I am currently expanding my research into open-world object detection with the g
 </p>
 </div>
 
-<h2 class="exp-heading">News & Updates</h2>
+<h2 class="exp-heading">Recent News and Updates</h2>
 <div class="exp-card">
   <ul>
 

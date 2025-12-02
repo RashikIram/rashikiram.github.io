@@ -99,8 +99,8 @@ $(document).ready(function () {
           }
         });
 
-  // Enable the theme toggle
-  $('#theme-toggle').on('click', toggleTheme);
+  // Theme toggle disabled - blue theme is now the default
+  // $('#theme-toggle').on('click', toggleTheme);
 
   // Enable the sticky footer
   var bumpIt = function () {

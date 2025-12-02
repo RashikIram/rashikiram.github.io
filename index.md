@@ -26,7 +26,7 @@ I am currently expanding my research into open-world object detection with the g
 <div class="exp-card">
   <ul>
 
-    <li>Oct 2025: One journal paper conditionally accepted in <strong>Knowledge-Based Systems</strong> (IF 6.1).</li>
+    <li>Oct 2025: One journal paper conditionally accepted in <strong>Knowledge-Based Systems</strong> (IF 7.6).</li>
 
     <li>Aug 2025: Invited Reviewer for <strong>Biomedical Signal Processing and Control</strong> (IF 4.9).</li>
 

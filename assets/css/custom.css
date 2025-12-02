@@ -1,6 +1,6 @@
 /* === Global Beige Theme === */
 body {
-  background-color: #fdf6e3;
+  background-color: #ffffff;  /* Changed from #fdf6e3 to white */
   color: #333;
   font-family: 'Segoe UI', sans-serif;
 }
@@ -18,8 +18,8 @@ h1, h2, h3 {
   color: #7b5e42;
 }
 
-.page__content {
-  background-color: #fff8dc;
+. page__content {
+  background-color: #fff8dc;  /* Keep this beige for content blocks */
   padding: 2em;
   border-radius: 6px;
   box-shadow: 0 2px 4px rgba(0,0,0,0.04);
@@ -28,16 +28,16 @@ h1, h2, h3 {
 /* Sidebar and nav (if applicable) */
 .author__avatar,
 .sidebar {
-  background-color: #fdf6e3 !important;
+  background-color: #ffffff ! important;  /* Changed from #fdf6e3 to white */
 }
 
 .page__footer-follow,
 .page__footer-links,
 .page__footer-colophon {
-  display: none !important;
+  display: none ! important;
 }
 
-.page__footer {
-  background-color: #f6ebd6;  /* soft beige footer background */
+. page__footer {
+  background-color: #ffffff;  /* Changed from #f6ebd6 to white */
   border-top: none;
 }

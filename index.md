@@ -22,10 +22,6 @@ I am currently expanding my research into open-world object detection with the g
 <div class="exp-card">
   <ul>
 
-   <h2 class="exp-heading">Recent News and Updates</h2>
-<div class="exp-card">
-  <ul>
-
     <li>Oct 2025: One journal paper conditionally accepted in <strong>Knowledge-Based Systems</strong> (IF 7.6).</li>
 
     <li>Aug 2025: Invited Reviewer for <strong>Biomedical Signal Processing and Control</strong> (IF 4.9).</li>
@@ -47,9 +43,6 @@ I am currently expanding my research into open-world object detection with the g
     <li>Feb 2024: Started a new position as a <strong>Research Assistant</strong> under Md. Ishan Arefin Hossain at North South University.</li>
 
     <li>Jan 2024: Started a new position as an <strong>AI Researcher</strong> at Mahdy Research Academy.</li>
-
-  </ul>
-</div>
 
 
   </ul>

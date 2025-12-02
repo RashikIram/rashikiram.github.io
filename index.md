@@ -22,25 +22,25 @@ I am currently expanding my research into open-world object detection with the g
 <div class="exp-card">
   <ul>
 
-    <li><strong>Oct 2025:</strong> One journal paper conditionally accepted in <strong>Knowledge-Based Systems (IF 6.1)</strong>.</li>
-
-    <li><strong>Aug 2025:</strong> Invited Reviewer for <strong>Biomedical Signal Processing and Control (IF 4.9)</strong>.</li>
-
-    <li><strong>Mar 2025:</strong> Started a new position as an <strong>Adjunct Lecturer</strong> at Southeast University, Department of CSE.</li>
-
-    <li><strong>Mar 2025:</strong> One journal paper accepted in <strong>Array, Elsevier (IF 4.5)</strong>.</li>
-
-    <li><strong>Dec 2024:</strong> Won the <strong>Innovation Challenge Season 15</strong> at North South University (Capstone Project Showcase).</li>
-
-    <li><strong>Dec 2024:</strong> One conference paper accepted at the <strong>6th International Conference on Sustainable Technologies for Industry 5.0 (STI)</strong>.</li>
-
-    <li><strong>Sept 2024:</strong> Started a new position as an <strong>Undergraduate Teaching Assistant</strong> at North South University, Department of ECE.</li>
-
-    <li><strong>Sept 2024:</strong> One journal paper accepted in <strong>Journal of King Saud University – Computer and Information Sciences, Elsevier (IF 6.1)</strong>.</li>
-
-    <li><strong>Feb 2024:</strong> Started a new position as a <strong>Research Assistant</strong> under Md. Ishan Arefin Hossain at North South University.</li>
-
-    <li><strong>Jan 2024:</strong> Started a new position as an <strong>AI Researcher</strong> at Mahdy Research Academy.</li>
+    <li>Oct 2025: One journal paper conditionally accepted in <strong>Knowledge-Based Systems</strong> (IF 6.1).</li>
+    
+    <li>Aug 2025: Invited Reviewer for <strong>Biomedical Signal Processing and Control</strong> (IF 4.9).</li>
+    
+    <li>Mar 2025: Started a new position as an <strong>Adjunct Lecturer</strong> at Southeast University, Department of CSE.</li>
+    
+    <li>Mar 2025: One journal paper accepted in <strong>Array, Elsevier</strong> (IF 4.5).</li>
+    
+    <li>Dec 2024: Won the <strong>Innovation Challenge Season 15</strong> at North South University (Capstone Project Showcase).</li>
+    
+    <li>Dec 2024: One conference paper accepted at the <strong>6th International Conference on Sustainable Technologies for Industry 5.0 (STI)</strong>.</li>
+    
+    <li>Sept 2024: Started a new position as an <strong>Undergraduate Teaching Assistant</strong> at North South University, Department of ECE.</li>
+    
+    <li>Sept 2024: One journal paper accepted in <strong>Journal of King Saud University – Computer and Information Sciences, Elsevier</strong> (IF 6.1).</li>
+    
+    <li>Feb 2024: Started a new position as a <strong>Research Assistant</strong> under Md. Ishan Arefin Hossain at North South University.</li>
+    
+    <li>Jan 2024: Started a new position as an <strong>AI Researcher</strong> at Mahdy Research Academy.</li>
 
   </ul>
 </div>

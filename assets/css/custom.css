@@ -18,7 +18,7 @@ h1, h2, h3 {
   color: #1e40af; /* Dark blue */
 }
 
-. page__content {
+.page__content {
   background-color: #fff8dc;  /* Keep this beige for content blocks */
   padding: 2em;
   border-radius: 6px;
@@ -28,16 +28,16 @@ h1, h2, h3 {
 /* Sidebar and nav (if applicable) */
 .author__avatar,
 .sidebar {
-  background-color: #ffffff ! important;  /* Changed from #fdf6e3 to white */
+  background-color: #ffffff !important;  /* Changed from #fdf6e3 to white */
 }
 
 .page__footer-follow,
 .page__footer-links,
 .page__footer-colophon {
-  display: none ! important;
+  display: none !important;
 }
 
-. page__footer {
+.page__footer {
   background-color: #ffffff;  /* Changed from #f6ebd6 to white */
   border-top: none;
 }

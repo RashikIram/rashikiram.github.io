@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Welcome"
-excerpt: "PhD applicant in Computer Science | Researcher in Multi-Modal AI, Computer Vision, Natural Language Processing, and Edge Intelligence"
+excerpt: "PhD Applicant in Computer Science | Multimodal AI, Computer Vision, and Efficient Deep Learning |Adelaide University"
 author_profile: true
 ---
 
@@ -10,11 +10,19 @@ author_profile: true
 <h2 class="exp-heading">About Me</h2>
 <div class="exp-card">
 <p>
-I am a Computer Science graduate from North South University and currently an Adjunct Lecturer at Southeast University, Dhaka, where I teach core undergraduate computer science courses to over 280 students. My research lies at the intersection of multi-modal learning, machine learning applications, and edge intelligence, with a focus on building lightweight and explainable AI systems that are deployable in real-world, resource-constrained environments. Much of my recent work is applied to assistive technology, particularly AI-driven navigation for the visually impaired and mobile diagnostic tools in healthcare.
+I am a Computer Science graduate from North South University and currently pursuing a Master’s degree in Artificial Intelligence and Machine Learning at the University of Adelaide. I previously worked as an Adjunct Lecturer at Southeast University, Dhaka, where I taught core undergraduate computer science courses to over 180 students.
 </p>
 
 <p>
-I am currently expanding my research into open-world object detection with the goal of designing AI systems that are trustworthy and generalize beyond curated datasets, adapting to the complexity of varying environments.
+My research focuses on multimodal learning, computer vision, and edge intelligence. I work on building lightweight and explainable AI systems that can be deployed in real-world, resource-constrained environments. A central theme of my work is developing scalable multimodal systems that generalize beyond closed-set settings and operate reliably in real-world environments.
+</p>
+
+<p>
+Much of my recent research has been in assistive technology, including AI-based navigation systems for visually impaired individuals, as well as medical image analysis for disease diagnosis.
+</p>
+
+<p>
+I am particularly interested in interdisciplinary research at the intersection of computer vision, multimodal learning, and real-world applications such as healthcare and assistive technology, with the goal of designing efficient and robust AI systems that perform reliably outside controlled datasets and adapt to open-world conditions.
 </p>
 </div>
 
@@ -43,7 +51,6 @@ I am currently expanding my research into open-world object detection with the g
     <li>Feb 2024: Started a new position as a <strong>Research Assistant</strong> under Md. Ishan Arefin Hossain at North South University.</li>
 
     <li>Jan 2024: Started a new position as an <strong>AI Researcher</strong> at Mahdy Research Academy.</li>
-
 
   </ul>
 </div>

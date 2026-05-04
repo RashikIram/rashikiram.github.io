@@ -6,7 +6,7 @@ excerpt: "PhD Applicant in Computer Science | Multimodal AI, Computer Vision, an
 
 ## Hi, I am Rashik Iram Chowdhury
 
-I am a Computer Science graduate from North South University and currently pursuing a Master’s degree in Artificial Intelligence and Machine Learning at the University of Adelaide. I previously worked as an Adjunct Lecturer at Southeast University, Dhaka, where I taught core undergraduate computer science courses to over 180 students.
+I am a Computer Science graduate from North South University and currently pursuing a Master’s degree in Artificial Intelligence and Machine Learning at the University of Adelaide. I previously worked as an Adjunct Lecturer at Southeast University, Dhaka, where I taught core undergraduate computer science courses to over 280 students.
 
 My research focuses on multimodal learning, computer vision, and edge intelligence. I work on building lightweight and explainable AI systems that can be deployed in real-world, resource-constrained environments. A central part of my work is developing scalable multimodal systems that can generalize beyond closed-set settings and handle the variability of real-world data.
 

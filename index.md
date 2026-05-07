@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Welcome"
-excerpt: "PhD Applicant in Computer Science | Multimodal AI, Computer Vision, and Efficient Deep Learning |Adelaide University"
+excerpt: "PhD Applicant in Computer Science | Multimodal AI, Computer Vision, and Efficient Deep Learning | Adelaide University"
 author_profile: true
 ---
 
@@ -10,7 +10,7 @@ author_profile: true
 <h2 class="exp-heading">About Me</h2>
 <div class="exp-card">
 <p>
-I am a Computer Science graduate from North South University and currently pursuing a Master’s degree in Artificial Intelligence and Machine Learning at the University of Adelaide. I previously worked as an Adjunct Lecturer at Southeast University, Dhaka, where I taught core undergraduate computer science courses to over 180 students.
+I am a Computer Science graduate from North South University and currently pursuing a Master’s degree in Artificial Intelligence and Machine Learning at the University of Adelaide. I previously worked as an Adjunct Lecturer at Southeast University, Dhaka, where I taught core undergraduate computer science courses to over 280 students.
 </p>
 
 <p>
@@ -29,6 +29,11 @@ I am particularly interested in interdisciplinary research at the intersection o
 <h2 class="exp-heading">Recent News and Updates</h2>
 <div class="exp-card">
   <ul>
+    <li>May 2026: One journal paper accepted in <strong>Biomedical Signal Processing and Control, Elsevier</strong> (IF 4.9).</li>
+    
+    <li>Feb 2026: Started Master's in Artificial Intelligence and Machine Learning at Adelaide University</li> 
+    
+    <li>Jan 2026: Honored with Vice Chancellor's Gold Medal nominated by the School of Engineering and Physical Sciences (SEPS) at NSU,</li>
 
     <li>Oct 2025: One journal paper conditionally accepted in <strong>Knowledge-Based Systems</strong> (IF 7.6).</li>
 

@@ -29,6 +29,8 @@ I am particularly interested in interdisciplinary research at the intersection o
 <h2 class="exp-heading">Recent News and Updates</h2>
 <div class="exp-card">
   <ul>
+    <li>May 2026: One journal paper accepted in <strong>Knowledge-Based Systems, Elsevier</strong> (IF 7.6).</li>
+    
     <li>May 2026: One journal paper accepted in <strong>Biomedical Signal Processing and Control, Elsevier</strong> (IF 4.9).</li>
     
     <li>Feb 2026: Started Master's in Artificial Intelligence and Machine Learning at Adelaide University</li> 

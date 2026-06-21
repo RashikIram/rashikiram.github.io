@@ -30,21 +30,21 @@ I am particularly interested in interdisciplinary research at the intersection o
 
 <div class="exp-card">
   <ul>
-    <li>May 2026: One journal paper accepted in <strong>Knowledge-Based Systems, Elsevier</strong> (Impact Factor: 7.6).</li>
+    <li>May 2026: One journal paper accepted in <strong>Knowledge-Based Systems, Elsevier</strong> (Impact Factor: 8.0).</li>
 
-    <li>May 2026: One journal paper accepted in <strong>Biomedical Signal Processing and Control, Elsevier</strong> (Impact Factor: 4.9).</li>
+    <li>May 2026: One journal paper accepted in <strong>Biomedical Signal Processing and Control, Elsevier</strong> (Impact Factor: 5.7).</li>
 
     <li>Feb 2026: Started Master's in Artificial Intelligence and Machine Learning at Adelaide University.</li>
 
     <li>Jan 2026: Honored with the Vice Chancellor's Gold Medal, nominated by the School of Engineering and Physical Sciences (SEPS) at NSU.</li>
 
-    <li>Oct 2025: One journal paper conditionally accepted in <strong>Knowledge-Based Systems</strong> (Impact Factor: 7.6).</li>
+    <li>Oct 2025: One journal paper conditionally accepted in <strong>Knowledge-Based Systems</strong> (Impact Factor: 8.0).</li>
 
-    <li>Aug 2025: Invited Reviewer for <strong>Biomedical Signal Processing and Control</strong> (Impact Factor: 4.9).</li>
+    <li>Aug 2025: Invited Reviewer for <strong>Biomedical Signal Processing and Control</strong> (Impact Factor: 5.7).</li>
 
     <li>Mar 2025: Started a new position as an <strong>Adjunct Lecturer</strong> at Southeast University, Department of CSE.</li>
 
-    <li>Mar 2025: One journal paper accepted in <strong>Array, Elsevier</strong> (Impact Factor: 4.5).</li>
+    <li>Mar 2025: One journal paper accepted in <strong>Array, Elsevier</strong> (Impact Factor: 5.3).</li>
 
     <li>Dec 2024: Graduated with <strong>Summa Cum Laude</strong> distinction, earning a GPA of 3.98/4.00 from North South University.</li>
 
